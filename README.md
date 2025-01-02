@@ -8,7 +8,7 @@
 <p>
   Olá 👋, eu sou Renan! Um estudante apaixonado por Programação e Web Design.
 
-  - 🌱 Atualmente estou fazendo um curso Técnico de Desenvolvimento de Sistemas (1 ano e meio) <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 Atualmente estou fazendo um curso Técnico de Desenvolvimento de Sistemas (1 ano e meio)
 
   - 🔭 Estou procurando minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com Web Designer.
 </p>
@@ -70,6 +70,6 @@
 ###
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://i.gifer.com/Mf08.gif" alt="Imagem">
 </p>
-###
+
