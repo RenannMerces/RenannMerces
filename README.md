@@ -1,6 +1,6 @@
 <br clear="both">
 
-![Minha Imagem](renan-banner.png)
+![Minha Imagem](Logo-banner.png)
 
 ###
 
