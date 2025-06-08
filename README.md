@@ -1,6 +1,6 @@
 <br clear="both">
 
-![Minha Imagem](Logo-banner.png)
+![Minha Imagem](banner-minimalista.png)
 
 ###
 
